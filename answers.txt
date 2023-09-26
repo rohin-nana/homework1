@@ -1,2 +1,4 @@
 What is the difference between a merge and a rebase?
 Merge and rebase are both used to combine branches, but rebase rewrites the logs of the commits
+What is a remote repository?
+A remote repository is a respository located on the internet or cloud
